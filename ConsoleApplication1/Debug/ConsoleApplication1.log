@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ParalelKod.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\nahrime\source\repos\paralelkod\consoleapplication1\paralelkod.cpp(28): warning C4068: unknown pragma
+c:\users\nahrime\source\repos\paralelkod\consoleapplication1\paralelkod.cpp(88): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nahrime\source\repos\paralelkod\consoleapplication1\paralelkod.cpp(90): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nahrime\source\repos\paralelkod\consoleapplication1\paralelkod.cpp(92): warning C4305: '+=': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> C:\Users\Nahrime\source\repos\ParalelKod\Debug\ParalelKod.exe
